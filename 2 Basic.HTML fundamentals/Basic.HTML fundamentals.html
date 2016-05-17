@@ -1,0 +1,209 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta charset="utf-8" />
+	<title>HTML Fundamentals</title>
+	<style>
+		.layout
+		{
+			overflow:hidden;
+		}
+		.col1
+		{
+			float:left;
+			width:200px;
+			padding:5px;
+		}
+		.col2
+		{
+			margin: 0 205px;
+			padding:5px;
+		}
+		.col3
+		{
+			width:200px;
+			float:right;
+			padding:5px;
+		}
+		header
+		{
+			font-family:Calibri Light;
+			font-weight:bold;
+			color:#002c78;
+			text-align:center;
+			font-size:20px;
+			height:100px;
+		}
+		.sectionHeader
+		{
+			font-family:Calibri Light;
+			font-weight:bold;
+			color:#002c78;
+			text-align:left;
+			font-size:18px;
+			margin-bottom:10px;
+			padding:0px;
+			text-indent:0px;
+		}
+		ul.menu
+		{
+			font-family:Calibri;
+			list-style:none;
+			padding:0px;
+		}
+		li
+		{
+			margin-bottom:6px;
+			text-indent:0px;
+		}
+		article
+		{
+			font-family:Calibri;
+			text-indent:40px;
+			text-align:justify;
+		}
+		img
+		{
+			width:227px;
+			margin:0 0 0 5px;
+		}
+		ul.article
+		{
+			list-style-type:square;
+		}
+		table
+		{
+			width:100%;
+			border-spacing:0px;
+			border-collapse:collapse;
+			text-indent:0px;
+		}
+		table td, table th
+		{
+			border: 1px solid black;
+		}
+		td
+		{
+			text-align:center;
+		}
+		td.nnp, th
+		{
+			text-align:left;
+		}
+		aside
+		{
+			font-family:Calibri;
+			text-indent:0px;
+			padding:0px;
+		}
+		label, button
+		{
+			cursor:pointer;
+		}
+		.control
+		{
+			margin:5px 0;
+			width:100%;
+		}
+		button
+		{
+			border-radius:5px;
+			width:100%;
+			text-align:left;
+			border:1px solid;
+		}
+		footer
+		{
+			font-family:Calibri Body;
+			font-size:11px;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<div>Макет задания по "Основы HTML"</div>
+	</header>
+	<div class="layout">
+		<div class="col1">
+			<nav>
+				<div class="sectionHeader">Меню</div>
+				<ul class="menu">
+					<li><a href="Basic.HTML fundamentals.html">Главная</a></li>
+					<li><a href="Basic.HTML fundamentals.html">Продукты</a></li>
+					<li><a href="Basic.HTML fundamentals.html">Кафе</a></li>
+					<li><a href="Basic.HTML fundamentals.html">Рестораны</a></li>
+					<li><a href="Basic.HTML fundamentals.html">Вопросы</a></li>
+					<li><a href="Basic.HTML fundamentals.html">Акции</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="col3">
+			<aside>
+				<form method="post">
+					<label for="login" class="control">Логин:</label><br />
+					<input type="text" id="login" class="control"/><br />
+					<label for="password" class="control">Пароль:</label><br />
+					<input type="password" id="password" class="control"/><br />
+					<select class="control">
+						<option value="admin">Admin</option>
+						<option value="tester">Tester</option>
+						<option value="user">User</option>
+					</select><br />
+					<label class="control"><input type="checkbox" />Запомни меня</label><br>
+					<button class="control">Вход</button>
+				</form>
+			</aside>
+		</div>
+		<div class="col2">
+			<article>
+				<div class="sectionHeader">Основной контент</div>
+				<div>
+					<img src="HTTPFundamentals.jpg" align="right" />
+					Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться. Lorem Ipsum используют потому, что тот обеспечивает более или менее стандартное заполнение шаблона, а также реальное распределение букв и пробелов в абзацах, которое не получается при простой дубликации "Здесь ваш текст.. Здесь ваш текст.. Здесь ваш текст.." Многие программы электронной вёрстки и редакторы HTML используют Lorem Ipsum в качестве текста по умолчанию, так что поиск по ключевым словам "lorem ipsum" сразу показывает, как много веб-страниц всё ещё дожидаются своего настоящего рождения. За прошедшие годы текст Lorem Ipsum получил много версий. Некоторые версии появились по ошибке, некоторые - намеренно (например, юмористические варианты).<sup>1</sup>
+				</div>
+				<ul class="article">
+					<li><span style="font-style:italic;">Курсивный пункт<sup style="color:blue;">2</sup></span></li>
+					<li><span style="font-weight:bold;">Жирный пункт</span></li>
+				</ul>
+
+				<table>
+					<caption class="sectionHeader">Список товаров в магазине</caption>
+					<colgroup>
+						<col width="60px" />
+						<col />
+						<col width="60px" />
+					</colgroup>
+					<thead>
+						<tr>
+							<th>Номер</th>
+							<th>Название</th>
+							<th>Цена</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>1</td>
+							<td class="nnp">Меч</td>
+							<td>10</td>
+						</tr>
+						<tr>
+							<td>2</td>
+							<td class="nnp">Булава</td>
+							<td>5</td>
+						</tr>
+						<tr>
+							<td>3</td>
+							<td class="nnp">Верный конь</td>
+							<td>15</td>
+						</tr>
+					</tbody>
+				</table>
+			</article>
+		</div>
+	</div>
+	<footer>
+		<div>&copy; 2014 Основы HTML</div>
+	</footer>
+</body>
+</html>
