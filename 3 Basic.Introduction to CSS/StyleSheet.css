@@ -212,13 +212,17 @@ section.settings h1
 	color:#36638e;
 	border-bottom:1px solid #C3D0DE;
 	padding-bottom:0.3em;
+	margin-bottom:20px;
 }
 div.settingsrow
 {
 	margin-left:125px;
-	line-height:1.27em;
 	padding-bottom:10px;
 	height:14px;
+}
+#currentemail
+{
+	
 }
 label
 {
@@ -265,7 +269,10 @@ input[type="checkbox"]:checked + span
 	text-align:right;
 	color:#666666;
 	float:left;
-	margin-top:4px;
+}
+.settingsrow input
+{
+	margin-top:-4px;
 }
 div.passrow
 {

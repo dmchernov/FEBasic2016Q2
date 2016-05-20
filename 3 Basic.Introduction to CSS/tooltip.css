@@ -20,7 +20,7 @@
 }
 #email #tooltip:hover div
 {
-	top: -27px;
+	top:-33px;
 	opacity: 1;
 	font-size:12px;
 }
@@ -35,7 +35,7 @@ img.marker
 	position:absolute;
 	float:left;
 	margin-left:-13px;
-	margin-top:25px;
+	margin-top:28px;
 }
 .emailorange:hover
 {
