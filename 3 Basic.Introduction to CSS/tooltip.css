@@ -1,0 +1,43 @@
+﻿#email #tooltip
+{
+	position:relative;
+}
+#email #tooltip div
+{
+	background: white;
+	border: 1px solid #96AABE;
+	color: black;
+	font-size: 11px;
+	position: absolute;
+	left:78%;
+	top:-9999px;
+	margin:0 0 0 -50px;
+	width:200px;
+	height:auto;
+	text-align:left;
+	opacity:0;
+	padding:5px;
+}
+#email #tooltip:hover div
+{
+	top: -27px;
+	opacity: 1;
+	font-size:12px;
+}
+#email #tooltip div
+{
+	-moz-transition:opacity 0.15s ease-in-out;
+	-webkit-transition:opacity 0.15s ease-in-out;
+	transition:opacity 0.15s ease-in-out;
+}
+img.marker
+{
+	position:absolute;
+	float:left;
+	margin-left:-13px;
+	margin-top:25px;
+}
+.emailorange:hover
+{
+	border:2px solid orange;
+}

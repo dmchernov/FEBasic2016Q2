@@ -1,0 +1,184 @@
+﻿<!DOCTYPE html>
+<html lang="ru" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" href="StyleSheet.css" />
+	<link rel="stylesheet" href="tooltip.css" />
+	<title>Мои настройки - Общее</title>
+</head>
+<body>
+	<!--Шапка с логотипом, поиском и меню-->
+	<div class="head">
+		<!--Логотип-->
+		<div class="logo"></div>
+		<!--Поиск-->
+		<div class="search">
+			<img src="search.png" class="searchimg" />
+			<input placeholder="Поиск" class="searchbox" size="15" />
+			<div class="peeple">22</div>
+		</div>
+		<div class="right"></div>
+		<!--Верхнее меню навигации-->
+		<nav class="top">
+			<ul>
+				<li><a href="http://vk.com/search?c[section]=people">Люди</a></li>
+				<li><a href="http://vk.com/search?c[section]=communities">Сообщества</a></li>
+				<li><a href="http://vk.com/apps">Игры</a></li>
+				<li>
+					<a href="http://vk.com/audios128596732?act=popular" id="head_music">
+						<span>Музыка</span>
+						<div class="musicicon"></div>
+					</a>
+				</li>
+				<li><a href="http://vk.com/support?act=home">Помощь</a></li>
+				<li><a href="https://login.vk.com/?act=logout">Выйти</a></li>
+			</ul>
+		</nav>
+	</div>
+	<!--Левая колонка-->
+	<div class="left">
+		<!--Меню навигации-->
+		<nav>
+			<ul>
+				<li>
+					<a href="http://vk.com/search?c[section]=people">
+						Моя Страница<div class="leftedit">ред.</div>
+					</a>
+				</li>
+				<li><a href="http://vk.com/search?c[section]=communities">Мои Друзья</a></li>
+				<li><a href="http://vk.com/apps">Мои Фотографии</a></li>
+				<li><a href="http://vk.com/audios128596732?act=popular">Мои Видеозаписи</a></li>
+				<li><a href="http://vk.com/support?act=home">Мои Аудиозаписи</a></li>
+				<li><a href="https://login.vk.com/?act=logout">Мои Сообщения</a></li>
+				<li><a href="https://login.vk.com/?act=logout">Мои Группы</a></li>
+				<li><a href="https://login.vk.com/?act=logout">Мои Новости</a></li>
+				<li><a href="https://login.vk.com/?act=logout">Мои Закладки</a></li>
+				<li><a href="https://login.vk.com/?act=logout">Мои Настройки</a></li>
+				<li><div class="leftseparator"></div></li>
+				<li><a href="https://login.vk.com/?act=logout">Документы</a></li>
+			</ul>
+		</nav>
+		<!--Рекламные блоки-->
+		<div class="ad">
+			<div class="adseparator"></div>
+			<section class="ad">
+				<h1>Зеленая суббота</h1>
+				<div class="small">izotep-plus.ru</div>
+				<img src="ad1.jpg" />
+				<div class="description">Все товары по закупочным ценам 28/05/16</div>
+				<div class="small">18+</div>
+			</section>
+			<div class="adseparator"></div>
+			<section class="ad">
+			<h1>Смотрите "Игру престолов"</h1>
+			<div class="small">megafon.tv</div>
+			<img src="ad2.jpg" />
+			<div class="description">Последний сезон! Смотрите бесплатно по акции</div>
+			<div class="small">18+</div>
+		</section>
+		</div>
+	</div>
+	<!--Основное содержимое-->
+	<div class="layout">
+		<div class="border2">
+			<div class="border1">
+				<!--Меню настроек-->
+				<div class="settingsmenu">
+					<ul>
+						<li><a href="/vkontakte.html" class="active">Общее</a></li>
+						<li><a href="http://vk.com/apps">Приватность</a></li>
+						<li><a href="http://vk.com/audios128596732?act=popular">Оповещения</a></li>
+						<li><a href="http://vk.com/support?act=home">Чёрный список</a></li>
+						<li><a href="https://login.vk.com/?act=logout">Мобильные сервисы</a></li>
+						<li><a href="https://login.vk.com/?act=logout">Баланс</a></li>
+					</ul>
+				</div>
+				<!--Слой настроек-->
+				<div class="settings">
+					<!--Настройки стены-->
+					<section class="settings">
+						<h1>Настройки стены</h1>
+						<div class="settingsrow">
+							<label><input type="checkbox" id="ch1" /><span></span></label>
+							<label for="ch1" class="row">Показывать только мои записи</label>
+						</div>
+						<div class="settingsrow">
+							<label><input type="checkbox" id="ch2" /><span></span></label>
+							<label for="ch2" class="row">Отключить комментирование стены</label>
+						</div>
+						<div class="settingsrow">
+							<a href="">Посмотреть заблокированные приложения</a>
+						</div>
+					</section>
+					<!--Изменение пароля-->
+					<section class="settings">
+						<h1>Изменить пароль</h1>
+						<div class="passrow">
+							<div class="description">Старый пароль:</div>
+							<div class="settingsrow">
+								<input type="password" />
+							</div>
+						</div>
+						<div class="passrow">
+							<div class="description">Новый пароль:</div>
+							<div class="settingsrow">
+								<input type="password" />
+							</div>
+						</div>
+						<div class="passrow">
+							<div class="description">Повторите пароль:</div>
+							<div class="settingsrow">
+								<input type="password" />
+							</div>
+						</div>
+						<div class="settingsrow">
+							<button>Изменить пароль</button>
+						</div>
+					</section>
+					<!--Изменение адреса эл. почты-->
+					<section class="settings">
+						<h1>Адрес Вашей электронной почты</h1>
+						<div class="passrow">
+							<div class="description">Текущий адрес:</div>
+							<div class="settingsrow">
+								a***@gmail.com
+							</div>
+						</div>
+						<div class="passrow" id="email">
+							<div class="description">Новый адрес:</div>
+							<div class="settingsrow" id="tooltip">
+								<input type="email" class="emailorange"/>
+								<div>
+									<img src="marker.png" class="marker"/>
+									На <b>новый</b> почтовый ящик придет письмо с подтвеждением.<br /><br />
+									На <b>старый</b> почтовый ящик придет уведомление об изменении.
+								</div>
+							</div>
+						</div>
+						<div class="settingsrow">
+							<button>Сохранить адрес</button>
+						</div>
+					</section>
+					<!--Изменение номера телефона-->
+					<section class="settings">
+						<h1>Номер вашего телефона</h1>
+						<div class="passrow">
+							<div class="description">Текущий номер:</div>
+							<div class="settingsrow">
+								+7 *** *** ** 25
+							</div>
+						</div>
+						<div class="settingsrow">
+							<button>Изменить номер телефона</button>
+						</div>
+					</section>
+				</div>
+				<div class="foot"></div>
+				<div class="delete">
+					Вы можете <a href="">удалить свою страницу</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
