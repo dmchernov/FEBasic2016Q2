@@ -126,7 +126,6 @@ div.left
 }
 .left a
 {
-	white-space:nowrap;
 	font-size:12px;
 	padding:4px;
 	color:#2b587a;
@@ -336,4 +335,11 @@ section.ad
 .ad description
 {
 	margin-bottom:15px;
+}
+input[type="password"], input[type="email"]
+{
+	border-radius:1px;
+	border-width:1px;
+	border-style:solid;
+	border-color:#C3CBD4;
 }

@@ -37,7 +37,8 @@ img.marker
 	margin-left:-13px;
 	margin-top:28px;
 }
-.emailorange:hover
+.emailorange:focus, input[type="password"]:focus, input[type="email"]:focus, input[type="password"]:focus
 {
 	border:2px solid orange;
+	border-radius:1px;
 }
