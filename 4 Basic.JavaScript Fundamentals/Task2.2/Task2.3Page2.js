@@ -20,3 +20,6 @@ function StopTimer() {
 	clearInterval(clear);
 	timer = 10;
 }
+function back() {
+	history.go(-1);
+}
