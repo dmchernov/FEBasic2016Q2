@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>jQery</title>
+	<link rel="stylesheet" href="css.css" />
+	<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+</head>
+<body>
+	<div>
+		<input id="findText" type="text" placeholder="Фильтр по подстроке в имени товара" />
+		<button id="newButton">Add New</button>
+		<button id="findButton">Искать</button>
+	</div>
+	<table id="table1">
+		<colgroup>
+			<col width="300px"/>
+			<col width="200px"/>
+			<col width="200px"/>
+		</colgroup>
+		<thead>
+		<tr>
+			<th>
+				<div id="nameHeader">Name</div>
+				<div id="nameSort"></div>
+			</th>
+			<th>
+				<div>
+					<div id="priceHeader">Price</div>
+					<div id="priceSort"></div>
+				</div>
+			</th>
+			<th>
+				Actions
+			</th>
+		</tr>
+		</thead>
+		<tbody id="tableBody">
+
+		</tbody>
+	</table>
+
+	<div id="modal">
+		
+		<label for="name">Name:</label><br/>
+		<input id="name" type="text" maxlength="15"/><span id="errorName"></span><br/>
+		<label for="email">Supplier email:</label><br/>
+		<input id="email" type="email"/><span id="errorEmail"></span><br/>
+		<label for="count">Count:</label><br/>
+		<input id="count" type="text"/><span id="errorCount"></span><br/>
+		<label for="price">Price:</label><br/>
+		<input id="price" type="text"/><span id="errorPrice"></span><br/><br/>
+
+		<select id="options">
+			<option value="empty">Пусто</option>
+			<option value="radio">Radio</option>
+			<option value="check">Check</option>
+		</select>
+		<div id="radio">
+			<p>
+				<input type="radio" name="radio" value="option1"/>Option 1
+			</p>
+			<p>
+				<input type="radio" name="radio" value="option2"/>Option 2
+			</p>
+			<p>
+				<input type="radio" name="radio" value="option3"/>Option 3
+			</p>
+		</div>
+		<div id="check">
+			<p>
+				<input id="all" type="checkbox"/>Select All
+			</p>
+			<hr/>
+			<p>
+				<input id="option1" type="checkbox" value="option1"/>Option 1
+			</p>
+			<p>
+				<input id="option2" type="checkbox" value="option2"/>Option 2
+			</p>
+			<p>
+				<input id="option3" type="checkbox" value="option3"/>Option 3
+			</p>
+		</div>
+
+		<div>
+			<br/>
+			<button id="addEdit">Add</button>
+		</div>
+	</div>
+
+	<div id="deleteModal">
+		<div>
+			Вы действительно хотите удалить этот товар?
+		</div>
+		<br/>
+		<div>
+			<button id="deleteButton">Да</button>
+			<button id="cancelDeleteButton">Нет</button>
+		</div>
+	</div>
+<div id="overlay"></div>
+	<script src="script1.js"></script>
+</body>
+</html>
