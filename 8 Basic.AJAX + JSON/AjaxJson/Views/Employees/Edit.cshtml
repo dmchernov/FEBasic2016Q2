@@ -1,0 +1,131 @@
+﻿@using System.Drawing.Imaging
+@using AjaxJson.Models
+@using System.Web.Optimization
+@model AjaxJson.Models.Employee
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Edit</h2>
+
+@*<form id="editForm">*@
+@using (Ajax.BeginForm("Edit", "Employees", new AjaxOptions { UpdateTargetId = "q"}))
+{
+@Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+	<h4>Employee</h4>
+	<hr/>
+	@Html.ValidationSummary(true, "", new {@class = "text-danger"})
+	@Html.HiddenFor(model => model.Id)
+
+	<div class="form-group">
+		@Html.LabelFor(model => model.FirstName, htmlAttributes: new {@class = "control-label col-md-6"})
+		<div class="col-md-6">
+			@Html.EditorFor(model => model.FirstName, new {htmlAttributes = new {@class = "form-control"}})
+			@Html.ValidationMessageFor(model => model.FirstName, "", new {@class = "text-danger"})
+		</div>
+	</div>
+
+	<div class="form-group">
+		@Html.LabelFor(model => model.LastName, htmlAttributes: new {@class = "control-label col-md-6"})
+		<div class="col-md-6">
+			@Html.EditorFor(model => model.LastName, new {htmlAttributes = new {@class = "form-control"}})
+			@Html.ValidationMessageFor(model => model.LastName, "", new {@class = "text-danger"})
+		</div>
+	</div>
+
+	<div class="form-group">
+		@Html.LabelFor(model => model.BirthDate, htmlAttributes: new {@class = "control-label col-md-6"})
+		<div class="col-md-6">
+			@Html.EditorFor(model => model.BirthDate, new {htmlAttributes = new {@class = "form-control"}})
+			@Html.ValidationMessageFor(model => model.BirthDate, "", new {@class = "text-danger"})
+		</div>
+	</div>
+
+	<div class="form-group">
+		@Html.LabelFor(model => model.HireDate, htmlAttributes: new {@class = "control-label col-md-6"})
+		<div class="col-md-6">
+			@Html.EditorFor(model => model.HireDate, new {htmlAttributes = new {@class = "form-control"}})
+			@Html.ValidationMessageFor(model => model.HireDate, "", new {@class = "text-danger"})
+		</div>
+	</div>
+
+	<div class="form-group">
+		@Html.LabelFor(model => model.PM, htmlAttributes: new {@class = "control-label col-md-6"})
+		<div class="col-md-6">
+			@Html.DropDownListFor(model => model.PM, ViewBag.pms as SelectList)
+			@Html.ValidationMessageFor(model => model.PM, "", new {@class = "text-danger"})
+		</div>
+	</div>
+
+	<div class="form-group">
+		@Html.LabelFor(model => model.RM, htmlAttributes: new {@class = "control-label col-md-6"})
+		<div class="col-md-6">
+			@Html.DropDownListFor(model => model.RM, ViewBag.rms as SelectList)
+			@Html.ValidationMessageFor(model => model.RM, "", new {@class = "text-danger"})
+		</div>
+	</div>
+
+	<div class="form-group">
+		@Html.LabelFor(model => model.IsRM, htmlAttributes: new {@class = "control-label col-md-6"})
+		<div class="col-md-6">
+			<div class="checkbox">
+				@Html.EditorFor(model => model.IsRM, new {htmlAttributes = new {@id = "isrm"}})
+				@Html.ValidationMessageFor(model => model.IsRM, "", new {@class = "text-danger"})
+			</div>
+		</div>
+	</div>
+
+	<div class="form-group">
+		@Html.LabelFor(model => model.IsPM, htmlAttributes: new {@class = "control-label col-md-6"})
+		<div class="col-md-6">
+			<div class="checkbox">
+				@Html.EditorFor(model => model.IsPM)
+				@Html.ValidationMessageFor(model => model.IsPM, "", new {@class = "text-danger"})
+			</div>
+		</div>
+	</div>
+
+	<div class="form-group">
+		@Html.LabelFor(model => model.Technology, htmlAttributes: new {@class = "control-label col-md-6"})
+		<div class="col-md-6">
+			@Html.EditorFor(model => model.Technology, new {htmlAttributes = new {@class = "form-control"}})
+			@Html.ValidationMessageFor(model => model.Technology, "", new {@class = "text-danger"})
+		</div>
+	</div>
+
+	<div class="form-group">
+		@Html.LabelFor(model => model.Image, htmlAttributes: new {@class = "control-label col-md-6"})
+		<div class="col-md-6">
+			@Html.HiddenFor(model => model.Image, new { htmlAttributes = new { @class = "form-control" } })
+			<img src="~/Content/Images/@Html.DisplayFor(model => model.Image)" alt ="Картинка" id="img" width="200px"/>
+			<div class="editor-field">
+				<input type="file" name="uploadImage" id="uploadFile"/>
+			</div>
+			@Html.ValidationMessageFor(model => model.Image, "", new {@class = "text-danger"})
+		</div>
+	</div>
+
+	<div class="form-group">
+		<div class="col-md-offset-2 col-md-10">
+			<input type="submit" value="Save" class="btn btn-default" id="submit"/>
+		</div>
+	</div>
+</div>
+}
+@*</form>*@
+
+<div>
+    @*@Html.ActionLink("Back to List", "Index")*@
+</div>
+
+@section Scripts {
+	@Scripts.Render("~/bundles/jquery")
+	@Scripts.Render("~/bundles/jqueryun")
+	@Scripts.Render("~/bundles/jqueryval")
+
+	
+}

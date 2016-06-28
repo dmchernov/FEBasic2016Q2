@@ -1,0 +1,204 @@
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\obj\Debug\AjaxJson.csprojResolveAssemblyReference.cache
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\csc.exe
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\System.Collections.Immutable.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\System.Reflection.Metadata.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\vbc.exe
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\VBCSCompiler.exe
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\VBCSCompiler.exe.config
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\AjaxJson.dll.config
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\AjaxJson.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\AjaxJson.pdb
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Antlr3.Runtime.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\EntityFramework.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\EntityFramework.SqlServer.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.AspNet.Identity.Core.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.Owin.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.Owin.Security.Cookies.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.Owin.Security.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.Owin.Security.Facebook.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.Owin.Security.Google.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.Owin.Security.OAuth.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.Owin.Security.Twitter.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.Web.Infrastructure.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Newtonsoft.Json.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Owin.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\System.Web.Helpers.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\System.Web.Mvc.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\System.Web.Optimization.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\System.Web.Razor.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\System.Web.WebPages.Deployment.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\System.Web.WebPages.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\System.Web.WebPages.Razor.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\WebGrease.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\System.Web.Helpers.xml
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\System.Web.Mvc.xml
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\System.Web.Optimization.xml
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\System.Web.Razor.xml
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\System.Web.WebPages.xml
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\System.Web.WebPages.Deployment.xml
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\System.Web.WebPages.Razor.xml
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Antlr3.Runtime.pdb
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Newtonsoft.Json.xml
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\EntityFramework.xml
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\EntityFramework.SqlServer.xml
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.AspNet.Identity.Core.xml
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.Owin.xml
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.Owin.Security.xml
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.Owin.Security.Facebook.xml
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.Owin.Security.Cookies.xml
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.Owin.Security.OAuth.xml
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.Owin.Security.Google.xml
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.Owin.Security.Twitter.xml
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\ru\System.Web.Helpers.resources.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\ru\System.Web.Mvc.resources.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\ru\System.Web.Optimization.resources.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\ru\System.Web.Razor.resources.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\ru\System.Web.WebPages.resources.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\ru\EntityFramework.resources.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\ru\Microsoft.Owin.resources.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\obj\Debug\AjaxJson.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\obj\Debug\AjaxJson.pdb
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\csc.exe.config
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\csc.rsp
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\csi.exe
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\csi.rsp
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\System.AppContext.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\System.IO.FileSystem.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\vbc.exe.config
+D:\WorkSpace\LocalGit\AjaxJson\AjaxJson\bin\roslyn\vbc.rsp
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\csc.exe
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\csc.exe.config
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\csc.rsp
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\csi.exe
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\csi.rsp
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\System.AppContext.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\System.Collections.Immutable.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\System.IO.FileSystem.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\System.Reflection.Metadata.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\vbc.exe
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\vbc.exe.config
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\vbc.rsp
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\VBCSCompiler.exe
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\roslyn\VBCSCompiler.exe.config
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\AjaxJson.dll.config
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\AjaxJson.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\AjaxJson.pdb
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Antlr3.Runtime.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\EntityFramework.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\EntityFramework.SqlServer.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.Owin.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.Owin.Security.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.Owin.Security.Google.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.Web.Infrastructure.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Newtonsoft.Json.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Owin.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\System.Web.Helpers.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\System.Web.Mvc.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\System.Web.Optimization.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\System.Web.Razor.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\System.Web.WebPages.Deployment.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\System.Web.WebPages.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\System.Web.WebPages.Razor.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\WebGrease.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Antlr3.Runtime.pdb
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Newtonsoft.Json.xml
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\System.Web.Helpers.xml
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\System.Web.Mvc.xml
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\System.Web.Optimization.xml
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\System.Web.Razor.xml
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\System.Web.WebPages.xml
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\System.Web.WebPages.Deployment.xml
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\System.Web.WebPages.Razor.xml
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\EntityFramework.xml
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\EntityFramework.SqlServer.xml
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.Owin.xml
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.Owin.Security.xml
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.Owin.Security.Google.xml
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\ru\System.Web.Helpers.resources.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\ru\System.Web.Mvc.resources.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\ru\System.Web.Optimization.resources.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\ru\System.Web.Razor.resources.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\ru\System.Web.WebPages.resources.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\ru\EntityFramework.resources.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\ru\Microsoft.Owin.resources.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\obj\Debug\AjaxJson.dll
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\obj\Debug\AjaxJson.pdb
+D:\GIT\fedmp\8 Basic.AJAX + JSON\AjaxJson\obj\Debug\AjaxJson.csprojResolveAssemblyReference.cache

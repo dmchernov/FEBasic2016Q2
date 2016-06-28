@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title – приложение ASP.NET</title>
+    @Styles.Render("~/Content/css")
+    @*@Scripts.Render("~/bundles/modernizr")*@
+
+</head>
+<body>
+    <div @*class="container body-content"*@>
+        
+        <div id="q" style="float:left; width:50%">@RenderBody()</div>
+        <div id="edit" style="float:left; width:50%; padding-left:10px"></div>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+	<script type="text/javascript">
+		$('#uploadFile').on('change', function(e) {
+			e.preventDefault();
+
+			var files = document.getElementById('uploadFile').files;
+			if (files.length > 0) {
+				if (window.FormData !== undefined) {
+					var data = new FormData();
+					data.append("Image", files[0]);
+
+					$.ajax({
+						type: "POST",
+						url: '@Url.Action("Upload", "Employees")',
+						contentType: false,
+						processData: false,
+						data: data,
+						success: function (result) {
+							$("#Image").attr('value', result);
+							$('#img').attr('src', '~/Content/Images/' + result);
+						},
+						error: function (xhr, status, p3) {
+							alert('Ошибка');
+						}
+					});
+				} else {
+					alert("Браузер не поддерживает загрузку файлов HTML5!");
+				}
+			}
+		});
+	</script>
+</body>
+</html>

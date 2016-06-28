@@ -1,0 +1,99 @@
+﻿@model AjaxJson.Models.Employee
+
+@{
+    ViewBag.Title = "Details";
+    //Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Employee</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BirthDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BirthDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HireDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HireDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PM)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PM)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RM)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RM)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IsRM)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsRM)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IsPM)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsPM)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Technology)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Technology)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Image)
+        </dt>
+
+        <dd>
+			<img src="~/Content/Images/@Html.DisplayFor(model => model.Image)" alt="Картинка" id="img" width="200px" />
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @*@Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")*@
+</p>
