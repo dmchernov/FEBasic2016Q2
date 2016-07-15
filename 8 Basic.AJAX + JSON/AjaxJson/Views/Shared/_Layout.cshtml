@@ -37,7 +37,7 @@
 						data: data,
 						success: function (result) {
 							$("#Image").attr('value', result);
-							$('#img').attr('src', '~/Content/Images/' + result);
+							$('#img').attr('src', '/Content/Images/' + result);
 						},
 						error: function (xhr, status, p3) {
 							alert('Ошибка');
